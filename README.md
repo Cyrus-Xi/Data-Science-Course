@@ -1,4 +1,4 @@
 Data-Science-Course
 ===================
 
-The code for the assignments in Coursera's Introduction to Data Science course.
+The solution code for the assignments in Coursera's Introduction to Data Science course taught by Bill Howe.
